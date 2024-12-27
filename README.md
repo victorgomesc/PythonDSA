@@ -44,8 +44,8 @@
   <li>[x] - 9 Linguagem Python nivel basico - Matematica e manipulação de matrizes com o NumPY.</li>
   <li>[x] - 10 Linguagem Python nivel basico - Manipulação de dados com o Pandas.</li>
   <li>[x] - 11 Linguagem Python nivel basico - Visualização de dados com matplotlib e seaborn.</li>
-  <li>[ ] - 12 Linguagem Python nivel basico - Analise de dados com Python e linguagem SQL.</li>
-  <li>[ ] - 13 Projeto 2 e Avalição 2.</li>
+  <li>[x] - 12 Linguagem Python nivel basico - Analise de dados com Python e linguagem SQL.</li>
+  <li>[x] - 13 Projeto 2 e Avalição 2.</li>
   <li>[ ] - 14 Linguagem Python nivel intermediario - Analise estatistica com Statesmodels.</li>
   <li>[ ] - 15 Linguagem Python nivel intermediario - Machine Learning com Sikit-Learning.</li>
   <li>[ ] - 16 Linguagem Python nivel intermediario - Analise de series temporais com Python.</li>
