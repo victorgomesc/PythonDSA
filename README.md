@@ -46,11 +46,11 @@
   <li>[x] - 11 Linguagem Python nivel basico - Visualização de dados com matplotlib e seaborn.</li>
   <li>[x] - 12 Linguagem Python nivel basico - Analise de dados com Python e linguagem SQL.</li>
   <li>[x] - 13 Projeto 2 e Avalição 2.</li>
-  <li>[ ] - 14 Linguagem Python nivel intermediario - Analise estatistica com Statesmodels.</li>
-  <li>[ ] - 15 Linguagem Python nivel intermediario - Machine Learning com Sikit-Learning.</li>
-  <li>[ ] - 16 Linguagem Python nivel intermediario - Analise de series temporais com Python.</li>
-  <li>[ ] - 17 Linguagem Python nivel intermediario - introdução a Deep Learning com TensorFlow.</li>
-  <li>[ ] - 18 Linguagem Python nivel intermediario - Aprendizado por reforço (Reinforcement learning).</li>
+  <li>[x] - 14 Linguagem Python nivel intermediario - Analise estatistica com Statesmodels.</li>
+  <li>[x] - 15 Linguagem Python nivel intermediario - Machine Learning com Sikit-Learning.</li>
+  <li>[x] - 16 Linguagem Python nivel intermediario - Analise de series temporais com Python.</li>
+  <li>[x] - 17 Linguagem Python nivel intermediario - introdução a Deep Learning com TensorFlow.</li>
+  <li>[x] - 18 Linguagem Python nivel intermediario - Aprendizado por reforço (Reinforcement learning).</li>
   <li>[ ] - 19 Projeto 3.</li>
   <li>[ ] - 20 Avaliação final e certificado de conclusão.</li>
 </lu>
