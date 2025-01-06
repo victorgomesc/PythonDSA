@@ -149,5 +149,16 @@ e ciência de dados. Ele aborda os seguintes tópicos principais:
   <li>Manipulação de Dados.</li>
 </ul>
 
+### Capitulo 6 - Linguagem Python Nível Introdutório - Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
+<p>No capitulo "Linguagem Python Nível Introdutório - Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in" aprendi os seguintes pontos:</p>
+<ul>
+  <li>Manipulação de Arquivos TXT, CSV  JSON em Python,</li>
+  <li>Manipulação de Arquivos em Python</li>
+  <li>Funções Avançadas em Python: Map, Reduce, Filter, Zip, Enumerate</li>
+  <li>Tratamento de Erros e Exceções: try, except, else e finally</li>
+  <li>Expressões Regulares</li>
+  <li>Manipulação e codificação de arquivos para compatibilidade com diferentes formatos.</li>
+</ul>
+
 
 
