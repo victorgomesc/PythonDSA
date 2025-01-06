@@ -129,5 +129,15 @@ e ciência de dados. Ele aborda os seguintes tópicos principais:
   <li>Reforço da importância de dominar lógica e pseudocódigo antes de aprender uma linguagem de programação.</li>
 </ul>
 
+### Capitulo 4 - Linguagem Python Nível Introdutório - Variáveis, Tipos e Estruturas de Dados
+<p>No capitulo "Linguagem Python Nível Introdutório - Variáveis, Tipos e Estruturas de Dados", aprendi os seguintes pontos:</p>
+<ul>
+  <li>Configuração inicial para começar a programar em Python.</li>
+  <li>Números e Operações Matemáticas em Python.</li>
+  <li>Variáveis e Operadores em Python.</li>
+  <li>Strings e Indexação em Python.</li>
+  <li>Estruturas de Dados.</li>
+</ul>
+
 
 
