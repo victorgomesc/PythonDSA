@@ -139,5 +139,15 @@ e ciência de dados. Ele aborda os seguintes tópicos principais:
   <li>Estruturas de Dados.</li>
 </ul>
 
+### Capitulo 5 - Linguagem Python Nível Introdutório - Loops, Condicionais, Métodos e Funções
+<p>No capitulo "Linguagem Python Nível Introdutório - Loops, Condicionais, Métodos e Funções", aprendi os seguintes pontos:</p>
+<ul>
+  <li>Configuração básica para programação em Python.</li>
+  <li>Condicionais e Operadores.</li>
+  <li>Loops em Python.</li>
+  <li>Funções e Métodos.</li>
+  <li>Manipulação de Dados.</li>
+</ul>
+
 
 
