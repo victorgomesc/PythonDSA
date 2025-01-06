@@ -160,5 +160,7 @@ e ciência de dados. Ele aborda os seguintes tópicos principais:
   <li>Manipulação e codificação de arquivos para compatibilidade com diferentes formatos.</li>
 </ul>
 
+### Capitulo 7 - Projeto 1 e Avaliação 1
+<p>Neste capítulo, foi desenvolvido um projeto prático de criação de um game em Python, que incluiu desde a elaboração do pseudocódigo com suporte do ChatGPT até a construção e execução de duas versões do jogo. A construção foi dividida em cinco etapas, abordando conceitos fundamentais de lógica, estruturação de código e boas práticas de programação. O capítulo também incluiu a conclusão do projeto, acesso a arquivos complementares, e uma avaliação final para consolidar os aprendizados e obter o certificado do nível introdutório.</p>
 
 
