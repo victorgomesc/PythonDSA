@@ -51,8 +51,8 @@
   <li>[x] - 16 Linguagem Python nivel intermediario - Analise de series temporais com Python.</li>
   <li>[x] - 17 Linguagem Python nivel intermediario - introdução a Deep Learning com TensorFlow.</li>
   <li>[x] - 18 Linguagem Python nivel intermediario - Aprendizado por reforço (Reinforcement learning).</li>
-  <li>[ ] - 19 Projeto 3.</li>
-  <li>[ ] - 20 Avaliação final e certificado de conclusão.</li>
+  <li>[x] - 19 Projeto 3.</li>
+  <li>[x] - 20 Avaliação final e certificado de conclusão.</li>
 </lu>
 
 ## Requisitos
