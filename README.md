@@ -173,5 +173,16 @@ e ciência de dados. Ele aborda os seguintes tópicos principais:
   <li>Práticas Avançadas de POO: Herança e polimorfismo.</li>
 </ul>
 
+### Capitulo 9 - Linguagem Python Nível Básico - Matemática e Manipulação de Matrizes com NumPy
+<p>No capitulo "Linguagem Python Nível Básico - Matemática e Manipulação de Matrizes com NumPy", aprendi os seguintes pontos:</p>
+
+<ul>
+  <li>Fundamentos do NumPy, explicando sua utilidade na manipulação de dados numéricos e operações eficientes com arrays.</li>
+  <li>Manipulação de Arrays e Matrizes</li>
+  <li>Funções NumPy</li>
+  <li>Análise Estatística Básica: Cálculo de média, desvio padrão e variância.</li>
+  <li>Leitura e gravação de dados estruturados em arquivos, integrando funcionalidades da biblioteca.</li>
+</ul>
+
 
 
