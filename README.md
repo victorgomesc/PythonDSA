@@ -122,9 +122,12 @@ e ciência de dados. Ele aborda os seguintes tópicos principais:
 
 ### Capitulo 3  - Linguagem Python nivel introdutório - Introdução a linguagem de programação
 <p>No capítulo "Linguagem Python Nível Introdutório - Introdução à Linguagem de Programação", aprendi os seguintes pontos:</p>
-<ol>
-  <li></li>
-</ol>
+<ul>
+  <li>Identificar o problema de priorizar linguagens em vez de lógica e algoritmos.</li>
+  <li>Identificar o problema de priorizar linguagens em vez de lógica e algoritmos</li>
+  <li>Usar pseudocódigo como ferramenta intermediária entre lógica e código, simplificando o entendimento de algoritmos.</li>
+  <li>Reforço da importância de dominar lógica e pseudocódigo antes de aprender uma linguagem de programação.</li>
+</ul>
 
 
 
